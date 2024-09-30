@@ -29,7 +29,7 @@ int main() {
         cap >> orjinalGoruntu;
 
         if (orjinalGoruntu.empty()) {
-            cerr << "получить кадр" << endl;
+            cerr << "кадр" << endl;
             continue;
         }
 
